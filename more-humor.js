@@ -43162,7 +43162,7 @@ function midCombatAllyRemove(actor) {
     updateStats()
 }
 
-if(!env.adenator_toomanyhumors) {addResources(["https://adenator.neocities.org/corrumods/literallyTooManyHumors.js"])} //LITERALLY TOO MANY HUMORS by adenator; adds scroll to humor list
+if(!env.adenator_toomanyhumors) {addResources(["https://file.garden/aNkeAbn6tHaGaNl2/too-many-humors.js"])} //LITERALLY TOO MANY HUMORS by adenator; adds scroll to humor list
 
 // oh boy here we go
 // TODO:: create function that checks for a component's showIf property, and changes that component's dontSpawnNormally property to true or false depending on the output
